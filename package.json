@@ -1,0 +1,8 @@
+{
+  "name": "LOOPER",
+  "version": "1.0.0",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "????999Xgamer999",
+  "dependencies": {}
+}
